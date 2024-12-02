@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Weather Forecast Application - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        code {
-            color: #d6336c;
-        }
-        ul {
-            margin: 10px 0;
-        }
-    </style>
-</head>
+
 <body>
 
 <h1>Weather Forecast Application</h1>
