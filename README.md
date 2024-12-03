@@ -24,7 +24,7 @@
 
 <h2>Project Structure</h2>
 <pre>
-src/main/java/com/example/weather
+src/main/java/com/weatherforecastapi/weather
     ├── model
     │    └── Weather.java
     ├── repository
