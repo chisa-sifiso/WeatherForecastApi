@@ -104,6 +104,6 @@ spring.h2.console.enabled=true
 
 <h2>License</h2>
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
+<h3>Developed by Sifiso Vinjwa </h3>
 </body>
 </html>
